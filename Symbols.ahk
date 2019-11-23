@@ -6,6 +6,8 @@ Numpad3::Send {U+03B4}
 NumpadPgDn::Send {U+03B4} ;
 Numpad4::Send {U+03B3} ;
 NumpadLeft::Send {U+03B3} ;
+Numpad5::Send {U+03BC} ;
+NumpadClear::Send {U+03BC} ;
 Numpad7::Send {U+2192}{Space} ; 
 NumpadHome::Send {U+2192}{Space} ;
 Numpad8::Send {U+2191} ;
